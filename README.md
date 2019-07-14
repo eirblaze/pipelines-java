@@ -1,3 +1,4 @@
+[![Build Status](https://eirblaze-live.visualstudio.com/HelloPipelines/_apis/build/status/eirblaze.pipelines-java?branchName=master)](https://eirblaze-live.visualstudio.com/HelloPipelines/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
